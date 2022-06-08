@@ -1,0 +1,60 @@
+.nav-link
+{
+    color: black!important;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
+.urban
+{
+    font-weight: 900;
+    font-size: 30px!important;
+    color: rgb(65 194 100) !important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    margin-left: -5px!important;
+
+}
+.topnotch{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+.home
+{
+
+    
+    
+}
+.navbar-collapse
+{
+    background-color: white;
+    text-align: left;
+    padding-left: 30px;
+
+}
+.navbar-collapse.collapse.show
+{
+    border-top: 3px solid rgb(65 194 100);
+    border-bottom: 2px solid #EEEEEE;
+    
+}
+.nav-link:hover
+{
+    color: green!important;
+    
+}
+.navbar
+{
+    padding-top: 1.4%!important;
+    background-color: white;
+
+}
+
+.navbar.colorChange {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+    height: 80px;
+
+    
+}
