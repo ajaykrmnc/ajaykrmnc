@@ -30,7 +30,7 @@
 
 <br/>
 
-<a href="https://github.com/raushan2410">
+<a href="https://github.com/ajaykrmnc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ajaykrmnc&count_private=true&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykrmnc&layout=compact"/>
 </a>
